@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php  
-        echo "Hello World";
+        print("Hello World! from IES Polígono Sur")
     ?>
 </body>
 </html>
