@@ -11,7 +11,7 @@
         $y=FALSE;
         $z=($x OR $y);
         //Obtengo el valor de la variable
-        echo $z
+        echo $z ? "TRUE" : "FALSE";
     ?>
 </body>
 </html>
