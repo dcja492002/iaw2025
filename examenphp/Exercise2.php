@@ -17,7 +17,7 @@
         }
     }
 
-    echo "La suma acumulada de los números pares del 1 al 100 es: $sumaAcumulada\n";  
+    echo "La suma acumulada de los números pares del 1 al 100 es: $sumaAcumulada\n";
     ?>
 </body>
 </html>
